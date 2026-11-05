@@ -17,6 +17,6 @@ The script reads a list of target IPs (e.g. from a masscan scan) and attempts to
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/<youruser>/refrigerator-temp-riser.git
+git clone https://github.com/watsoncoders/refrigerator-temp-riser.git
 cd refrigerator-temp-riser
 pip install -r requirements.txt
